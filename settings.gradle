@@ -1,0 +1,2 @@
+include ':lib-vlc_2.5.5'
+include ':app'

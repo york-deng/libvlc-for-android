@@ -1,0 +1,23 @@
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+ext {
+    minSdkVersion     =  16
+    targetSdkVersion  =  17
+
+    compileSdkVersion =  23
+    buildToolsVersion = "23.0.1"
+
+    appcompat_v7      = "com.android.support:appcompat-v7:24.2.0"
+    recyclerview_v7   = "com.android.support:recyclerview-v7:24.2.0"
+    cardview_v7       = "com.android.support:cardview-v7:23.2.0"
+    support_v4        = "com.android.support:support-v4:24.2.0"
+    design            = "com.android.support:design:24.2.0"
+
+    okhttp3           = "com.squareup.okhttp3:okhttp:3.8.1"
+    juniversalchardet = "com.googlecode.juniversalchardet:juniversalchardet:1.0.3"
+}

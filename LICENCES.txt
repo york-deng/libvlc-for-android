@@ -1,0 +1,6 @@
+ijkplayer: LGPLv2.1 or later
+libVLC (libvlc): LGPLv2.1 or later
+VLC for Android (vlc-android): GPLv3 !!!!!!!!!
+jetty: EPLv1.0
+i-jetty: CLA
+J2EP: Apache License
